@@ -238,4 +238,13 @@ runtime — no content leaves the deployment environment.
 
 ## Citation
 
-If you use this benchmark in your research:
+If you use this benchmark in your research: Kotaru, A. (2026). xAIDR: Extended AI Detection &
+Response — A Runtime Benchmark for Autonomous
+Multi-Agent Systems. Delphi Security Inc.
+github.com/anirudhraokotaru/xaidr-benchmark
+
+
+## Contact
+
+anirudh@delphisecurity.ai  
+delphisecurity.ai
